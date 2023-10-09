@@ -1,0 +1,16 @@
+{
+  "name": "MahjongRomanNumbers",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "shelljs": "^0.8.5",
+    "uglify-js": "^3.17.4"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "batchcompress": "node BatchCompress.js"
+  }
+}
